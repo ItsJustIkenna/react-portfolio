@@ -5,7 +5,7 @@ let resumeData = {
   linkedinId: "Your LinkedIn Id",
   skypeid: "Your skypeid",
   roleDescription:
-    "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    " I love learning about cutting edge AI technologies and building things. I'm also really into anime and comic books.",
   socialLinks: [
     {
       name: "linkedin",
