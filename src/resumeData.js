@@ -103,7 +103,7 @@ let resumeData = {
       name: "Workout Tracker",
       description:
         "An application that allows users to track their daily workouts. This app uses a Mongo database with a Mongoose schema and handles routes with Express. It is also deployed with Heroku. Users are able to log multiple exercises in a workout on a given day. They can track the name, type, weight, sets, reps, and duration of the exercise. If the exercise is a cardio exercise, the user can track the distance traveled.",
-      imgurl: "images/portfolio/Project_2.PNG",
+      imgurl: "images/portfolio/project_2.PNG",
       githuburl: "https://github.com/ItsJustIkenna/workout-tracker",
       deployed:
         "https://warm-falls-63193.herokuapp.com/?id=602339ca97808c0015d8a7d8",
